@@ -3,7 +3,7 @@ The GitHub project utilizes decision trees to predict forest fires using the Alg
 The model's high accuracy and perfect recall indicate robust performance in predicting forest fires.
 
 ![image](https://github.com/user-attachments/assets/8e7234b6-2386-42f7-9b62-54cffdf51e3d)
-Source: https://img.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XSX7X46LQ4P7IV4LEJNPB73C4I.jpg&w=1800&high_res=true
+Source: [ https://img.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XSX7X46LQ4P7IV4LEJNPB73C4I.jpg&w=1800&high_res=true](https://www.washingtonpost.com/photography/interactive/2023/algeria-wildfires-bejaia-tunisia-melloula/)
 
 ## Dataset Overview
 The project utilizes the Algerian Forest Fires dataset from the UCI Machine Learning Repository. This dataset includes 244 instances encompassing data from two regions of Algeria, namely the Bejaia region in the northeast and the Sidi Bel-abbes region in the northwest, covering the period from June to September 2012.
