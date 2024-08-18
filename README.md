@@ -5,9 +5,14 @@ The model's high accuracy and perfect recall indicate robust performance in pred
 ![image](https://github.com/user-attachments/assets/8e7234b6-2386-42f7-9b62-54cffdf51e3d)
 [Source](https://www.washingtonpost.com/photography/interactive/2023/algeria-wildfires-bejaia-tunisia-melloula/)
 
-## Dataset Overview
-The project utilizes the Algerian Forest Fires dataset from the UCI Machine Learning Repository. This dataset includes 244 instances encompassing data from two regions of Algeria, namely the Bejaia region in the northeast and the Sidi Bel-abbes region in the northwest, covering the period from June to September 2012.
-[[Dataset link](https://archive.ics.uci.edu/dataset/547/algerian+forest+fires+dataset)]
+## Dataset Information
+
+The project utilizes the Algerian Forest Fires dataset from the UCI Machine Learning Repository. This dataset includes 244 instances encompassing data from two regions of Algeria, namely the Bejaia region in the northeast and the Sidi Bel-abbes region in the northwest, covering the period from June to September 2012. Detailed descriptions of the features can be found in the original research paper:
+
+Abid, Faroudja & Izeboudjen, Nouma. (2020). Predicting Forest Fire in Algeria Using Data Mining Techniques: Case Study of the Decision Tree Algorithm. [DOI: 10.1007/978-3-030-36674-2_37](https://doi.org/10.1007/978-3-030-36674-2_37).
+
+[Dataset Link](https://archive.ics.uci.edu/dataset/547/algerian+forest+fires+dataset)
+
 
 ## Libraries Required
 - Pandas
