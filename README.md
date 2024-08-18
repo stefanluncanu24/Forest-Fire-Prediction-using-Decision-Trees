@@ -16,7 +16,7 @@ The project utilizes the Algerian Forest Fires dataset from the UCI Machine Lear
 ## File Explanations
 
 - forest.csv - dataset used for training and testing
-- forest.ipynb - code used
+- forest.ipynb - code 
 
 ## Libraries Required
 - Pandas
