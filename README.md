@@ -39,16 +39,20 @@ The project utilizes the Algerian Forest Fires dataset from the UCI Machine Lear
   - **Precision:** 0.9428571428571428
   - **F1 Score:** 0.9705882352941176
 - The AUC ROC curve is plotted to evaluate the model's ability to distinguish between classes, providing a comprehensive view of performance across different thresholds.
-- 
+  
   ![image](https://github.com/user-attachments/assets/83454156-d73a-43a6-90e9-2876982f4093)
 
 - These results show how well the model can predict forest fires, highlighting its robustness in correctly identifying fire instances.
 
 ## Feature Importance
 - Feature importance is computed to identify which features contribute most to predicting forest fires.
+  
+  ![image](https://github.com/user-attachments/assets/5120fae2-3fa9-409f-8307-bb0af69fe685)
 
 ## Decision Tree Visualization
 - The final decision tree is visualized to provide insights into the decision-making process of the model.
+  
+![image](https://github.com/user-attachments/assets/2049e91a-6190-4dff-bbe8-6c451317e485)
 
 ## Conclusion
 This project successfully develops a predictive model to determine the likelihood of forest fires using environmental data from specific Algerian regions. The inclusion of the AUC ROC curve and detailed performance metrics provides a thorough assessment of the model's effectiveness, making it a valuable tool for local authorities in fire prevention and resource allocation strategies.
