@@ -28,7 +28,6 @@ The project utilizes the Algerian Forest Fires dataset from the UCI Machine Lear
 
 ## Model Evaluation
 - The model's performance is assessed using various metrics: accuracy, recall, precision, F1-score, and confusion matrix.
-- The AUC ROC curve is plotted to evaluate the model's ability to distinguish between classes, providing a comprehensive view of performance across different thresholds.
 - **Performance Metrics:**
   - **Accuracy:** 0.9672131147540983
   - **Confusion Matrix:**
@@ -39,6 +38,10 @@ The project utilizes the Algerian Forest Fires dataset from the UCI Machine Lear
   - **Recall:** 1.0
   - **Precision:** 0.9428571428571428
   - **F1 Score:** 0.9705882352941176
+- The AUC ROC curve is plotted to evaluate the model's ability to distinguish between classes, providing a comprehensive view of performance across different thresholds.
+- 
+  ![image](https://github.com/user-attachments/assets/83454156-d73a-43a6-90e9-2876982f4093)
+
 - These results show how well the model can predict forest fires, highlighting its robustness in correctly identifying fire instances.
 
 ## Feature Importance
