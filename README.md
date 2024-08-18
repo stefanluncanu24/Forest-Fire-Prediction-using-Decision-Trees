@@ -11,7 +11,7 @@ The project utilizes the Algerian Forest Fires dataset from the UCI Machine Lear
 
 - Abid, Faroudja & Izeboudjen, Nouma. (2020). Predicting Forest Fire in Algeria Using Data Mining Techniques: Case Study of the Decision Tree Algorithm. [DOI: 10.1007/978-3-030-36674-2_37](https://doi.org/10.1007/978-3-030-36674-2_37).
 
-[Dataset Link](https://archive.ics.uci.edu/dataset/547/algerian+forest+fires+dataset)
+- [Dataset Link](https://archive.ics.uci.edu/dataset/547/algerian+forest+fires+dataset)
 
 
 ## Libraries Required
